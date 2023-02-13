@@ -2,8 +2,9 @@
 
 ### Starting the application
 
-1. execute command './env/Scripts/Activate.ps1'
-2. execute command 'python ./app.py'
+1. execute command 'virtualenv env'
+2. execute command './env/Scripts/Activate.ps1'
+3. execute command 'python ./app.py'
 
 ### Endpoints
 
